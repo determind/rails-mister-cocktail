@@ -35,6 +35,10 @@ gem 'font-awesome-sass', '~> 5.0.9'
 gem 'simple_form'
 
 gem 'dotenv-rails', groups: [:development, :test]
+gem 'cloudinary', '~> 1.9.1'
+
+gem 'carrierwave', '~> 1.2'
+
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
